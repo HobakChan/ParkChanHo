@@ -1,0 +1,4 @@
+test file. txt
+read file
+replace
+cut paste
